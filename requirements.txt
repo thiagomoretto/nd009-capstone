@@ -1,0 +1,17 @@
+Cython==0.28.4
+h5py==2.8.0
+Keras==2.0.2
+Keras-Applications==1.0.2
+Keras-Preprocessing==1.0.1
+matplotlib==2.0.0
+numpy==1.15.0
+opencv-python==3.2.0.6
+pandas==0.22.0
+scikit-image==0.13.1
+scikit-learn==0.18.1
+scipy==1.1.0
+six==1.11.0
+tensorflow==1.9.0
+tqdm==4.11.2
+tsne==0.1.8
+urllib3==1.22

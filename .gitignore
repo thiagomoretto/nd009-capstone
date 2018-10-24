@@ -1,0 +1,4 @@
+*.pyc
+*.npy
+.ipynb_checkpoints
+datasets/dataset_*
