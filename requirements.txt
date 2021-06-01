@@ -14,4 +14,4 @@ six==1.11.0
 tensorflow==1.9.0
 tqdm==4.11.2
 tsne==0.1.8
-urllib3==1.22
+urllib3==1.26.5
