@@ -4,7 +4,7 @@ Keras==2.0.2
 Keras-Applications==1.0.2
 Keras-Preprocessing==1.0.1
 matplotlib==2.0.0
-numpy==1.15.0
+numpy==1.22.0
 opencv-python==3.2.0.6
 pandas==0.22.0
 scikit-image==0.13.1
